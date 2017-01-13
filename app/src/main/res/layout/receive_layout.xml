@@ -9,6 +9,7 @@
         android:id="@+id/btnRes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
         android:text="receive_smg"
         android:textAllCaps="false"/>
 
